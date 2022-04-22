@@ -1,5 +1,4 @@
-# Plan-de-trabajo
-## 2022-2023
+# Plan de trabajo (2022-2023)
 
 ## 2022 Q2
 - creacion del token
